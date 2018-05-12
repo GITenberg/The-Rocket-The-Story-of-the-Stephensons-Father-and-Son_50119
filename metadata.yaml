@@ -1,4 +1,8 @@
 _repo: The-Rocket-The-Story-of-the-Stephensons-Father-and-Son_50119
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50119-h/images/cover.jpg
 creator:
   author:
     agent_name: Knight, Helen C. (Helen Cross)
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '40311'
     url: http://www.gutenberg.org/2009/agents/40311
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50119#The-Rocket-The-Story-of-the-Stephensons-Father-and-Son
 gutenberg_issued: '2015-10-03'
 gutenberg_type: Text
 identifiers:
